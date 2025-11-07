@@ -1,0 +1,19 @@
+2025-11-07 09:13:38,397 - INFO - --- Démarrage du Pipeline de Nettoyage ---
+2025-11-07 09:13:38,397 - INFO - Source: books_data_resilient.jsonl | Rapport: data_quality_report.txt
+2025-11-07 09:13:38,398 - ERROR - Erreur: Fichier 'books_data_resilient.jsonl' non trouvé.
+2025-11-07 09:13:38,398 - WARNING - DataFrame vide, aucune analyse post-validation à effectuer.
+2025-11-07 09:13:38,399 - INFO - 
+==================================================
+2025-11-07 09:13:38,399 - INFO - RAPPORT FINAL DE QUALITÉ DES DONNÉES
+2025-11-07 09:13:38,399 - INFO - ==================================================
+2025-11-07 09:13:38,400 - INFO - Total des enregistrements traités : 0
+2025-11-07 09:13:38,400 - INFO - Enregistrements valides : 0
+2025-11-07 09:13:38,401 - INFO - Enregistrements invalides : 0
+2025-11-07 09:13:38,401 - INFO - 
+==================================================
+2025-11-07 09:13:38,401 - INFO - ANALYSE POST-VALIDATION
+2025-11-07 09:13:38,401 - INFO - ==================================================
+2025-11-07 09:13:38,402 - INFO - Descriptions manquantes imputées : N/A
+2025-11-07 09:13:38,402 - INFO - Anomalies de prix (Z-score) : N/A
+2025-11-07 09:13:38,402 - WARNING - Aucune donnée valide n'a été sauvegardée.
+2025-11-07 09:13:38,402 - INFO - --- Pipeline Terminé ---

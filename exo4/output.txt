@@ -1,0 +1,104 @@
+Démarrage du script d'analyse de BooksToScrape...
+1. Récupération des catégories...
+   Trouvé 50 catégories.
+
+2. Démarrage du scraping des livres (cela peut prendre un moment)...
+
+Scraping terminé. Total de 1000 livres trouvés.
+
+Aperçu des données collectées :
+                                               Titre   Prix  Note  En_Stock Catégorie
+0                            It's Only the Himalayas  45.17     2      True  travel_2
+1  Full Moon over Noahâs Ark: An Odyssey to Mou...  49.43     4      True  travel_2
+2  See America: A Celebration of Our National Par...  48.87     3      True  travel_2
+3  Vagabonding: An Uncommon Guide to the Art of L...  36.94     2      True  travel_2
+4                               Under the Tuscan Sun  37.33     3      True  travel_2
+
+--- Phase 3 : Analyse des Données ---
+
+Prix moyen par Catégorie :
+Catégorie
+suspense_44             58.330000
+novels_46               54.810000
+politics_48             53.613333
+health_47               51.452500
+new-adult_20            46.383333
+christian_43            42.496667
+sports-and-games_17     41.166000
+self-help_41            40.620000
+travel_2                39.794545
+fantasy_19              39.593958
+art_25                  38.520000
+parenting_28            37.350000
+history_32              37.295000
+autobiography_27        37.053333
+womens-fiction_9        36.791176
+cultural_49             36.580000
+classics_6              36.545263
+contemporary_38         36.200000
+fiction_10              36.066615
+poetry_23               35.974211
+horror_31               35.949412
+short-stories_45        35.880000
+add-a-comment_18        35.796418
+music_14                35.636923
+young-adult_21          35.449074
+spirituality_39         35.098333
+sequential-art_5        34.572267
+default_15              34.392697
+christian-fiction_34    34.385000
+nonfiction_13           34.260182
+psychology_26           34.218571
+romance_8               33.933714
+science-fiction_16      33.802500
+biography_36            33.662000
+historical-fiction_4    33.644231
+philosophy_7            33.558182
+humor_30                33.501000
+science_22              33.088571
+childrens_11            32.638276
+religion_12             32.567143
+business_35             32.460000
+mystery_3               31.719062
+thriller_37             31.433636
+food-and-drink_33       31.414667
+historical_42           22.830000
+erotica_50              19.190000
+paranormal_24           15.400000
+adult-fiction_29        15.360000
+academic_40             13.120000
+crime_51                10.970000
+
+Prix moyen par Note :
+Note
+1    34.561195
+2    34.810918
+3    34.692020
+4    36.093296
+5    35.374490
+Name: Prix, dtype: float64
+
+Tendances de prix (Statistiques descriptives) :
+count    1000.00000
+mean       35.07035
+std        14.44669
+min        10.00000
+25%        22.10750
+50%        35.98000
+75%        47.45750
+max        59.99000
+Name: Prix, dtype: float64
+
+Livres en rupture de stock :
+Tous les livres sont en stock.
+
+Distribution des Notes (Ratings) :
+Note
+1    226
+2    196
+3    203
+4    179
+5    196
+Name: count, dtype: int64
+
+--- Analyse Terminée ---

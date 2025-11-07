@@ -1,0 +1,28 @@
+# Fichier de configuration pour le scraper multi-sources
+# Permet d'activer/désactiver des modules et de définir leurs paramètres.
+
+scrapers:
+  books:
+    enabled: true
+    name: "BooksToScrape"
+    url: "https://books.toscrape.com/"
+    # Limite le scraping à N pages (pour l'exemple)
+    max_pages: 2
+
+  quotes:
+    enabled: true
+    name: "QuotesToScrape"
+    url: "http://quotes.toscrape.com/"
+    max_pages: 3
+
+  jobs:
+    enabled: true
+    name: "FakeJobs"
+    url: "https://realpython.github.io/fake-jobs/"
+    # Paramètre spécifique au module 'jobs'
+    filter_keyword: "Python"
+
+# Configuration générale du script
+settings:
+  output_file: "aggregated_data.json"
+  max_workers: 3 # Nombre de scrapers à exécuter en parallèle

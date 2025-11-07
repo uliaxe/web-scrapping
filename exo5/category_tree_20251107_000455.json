@@ -1,0 +1,552 @@
+[
+    {
+        "nom_categorie": "Travel",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "statistiques": {
+            "total_books": 11,
+            "avg_price_gbp": 39.79,
+            "min_price_gbp": 23.21,
+            "max_price_gbp": 56.88
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Mystery",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "statistiques": {
+            "total_books": 32,
+            "avg_price_gbp": 31.72,
+            "min_price_gbp": 10.69,
+            "max_price_gbp": 59.48
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Historical Fiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "statistiques": {
+            "total_books": 26,
+            "avg_price_gbp": 33.64,
+            "min_price_gbp": 16.62,
+            "max_price_gbp": 55.55
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Sequential Art",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "statistiques": {
+            "total_books": 75,
+            "avg_price_gbp": 34.57,
+            "min_price_gbp": 10.16,
+            "max_price_gbp": 57.62
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Classics",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "statistiques": {
+            "total_books": 19,
+            "avg_price_gbp": 36.55,
+            "min_price_gbp": 14.82,
+            "max_price_gbp": 58.63
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Philosophy",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "statistiques": {
+            "total_books": 11,
+            "avg_price_gbp": 33.56,
+            "min_price_gbp": 15.94,
+            "max_price_gbp": 58.11
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Romance",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "statistiques": {
+            "total_books": 35,
+            "avg_price_gbp": 33.93,
+            "min_price_gbp": 11.1,
+            "max_price_gbp": 59.99
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Womens Fiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "statistiques": {
+            "total_books": 17,
+            "avg_price_gbp": 36.79,
+            "min_price_gbp": 13.73,
+            "max_price_gbp": 57.36
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Fiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "statistiques": {
+            "total_books": 65,
+            "avg_price_gbp": 36.07,
+            "min_price_gbp": 10.6,
+            "max_price_gbp": 59.98
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Childrens",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "statistiques": {
+            "total_books": 29,
+            "avg_price_gbp": 32.64,
+            "min_price_gbp": 10.62,
+            "max_price_gbp": 58.08
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Religion",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "statistiques": {
+            "total_books": 7,
+            "avg_price_gbp": 32.57,
+            "min_price_gbp": 21.87,
+            "max_price_gbp": 57.49
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Nonfiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "statistiques": {
+            "total_books": 110,
+            "avg_price_gbp": 34.26,
+            "min_price_gbp": 11.68,
+            "max_price_gbp": 59.9
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Music",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "statistiques": {
+            "total_books": 13,
+            "avg_price_gbp": 35.64,
+            "min_price_gbp": 12.36,
+            "max_price_gbp": 57.25
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Default",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "statistiques": {
+            "total_books": 152,
+            "avg_price_gbp": 34.39,
+            "min_price_gbp": 10.23,
+            "max_price_gbp": 58.87
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Science Fiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "statistiques": {
+            "total_books": 16,
+            "avg_price_gbp": 33.8,
+            "min_price_gbp": 10.65,
+            "max_price_gbp": 54.86
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Sports and Games",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "statistiques": {
+            "total_books": 5,
+            "avg_price_gbp": 41.17,
+            "min_price_gbp": 24.42,
+            "max_price_gbp": 51.22
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Add a comment",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "statistiques": {
+            "total_books": 67,
+            "avg_price_gbp": 35.8,
+            "min_price_gbp": 10.02,
+            "max_price_gbp": 59.15
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Fantasy",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "statistiques": {
+            "total_books": 48,
+            "avg_price_gbp": 39.59,
+            "min_price_gbp": 12.16,
+            "max_price_gbp": 58.75
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "New Adult",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "statistiques": {
+            "total_books": 6,
+            "avg_price_gbp": 46.38,
+            "min_price_gbp": 36.29,
+            "max_price_gbp": 58.35
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Young Adult",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "statistiques": {
+            "total_books": 54,
+            "avg_price_gbp": 35.45,
+            "min_price_gbp": 10.0,
+            "max_price_gbp": 58.14
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Science",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "statistiques": {
+            "total_books": 14,
+            "avg_price_gbp": 33.09,
+            "min_price_gbp": 10.01,
+            "max_price_gbp": 57.36
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Poetry",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "statistiques": {
+            "total_books": 19,
+            "avg_price_gbp": 35.97,
+            "min_price_gbp": 14.19,
+            "max_price_gbp": 57.31
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Paranormal",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 15.4,
+            "min_price_gbp": 15.4,
+            "max_price_gbp": 15.4
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Art",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "statistiques": {
+            "total_books": 8,
+            "avg_price_gbp": 38.52,
+            "min_price_gbp": 10.29,
+            "max_price_gbp": 49.05
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Psychology",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "statistiques": {
+            "total_books": 7,
+            "avg_price_gbp": 34.22,
+            "min_price_gbp": 10.4,
+            "max_price_gbp": 59.95
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Autobiography",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "statistiques": {
+            "total_books": 9,
+            "avg_price_gbp": 37.05,
+            "min_price_gbp": 10.93,
+            "max_price_gbp": 59.04
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Parenting",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 37.35,
+            "min_price_gbp": 37.35,
+            "max_price_gbp": 37.35
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Adult Fiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 15.36,
+            "min_price_gbp": 15.36,
+            "max_price_gbp": 15.36
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Humor",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "statistiques": {
+            "total_books": 10,
+            "avg_price_gbp": 33.5,
+            "min_price_gbp": 11.83,
+            "max_price_gbp": 55.5
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Horror",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "statistiques": {
+            "total_books": 17,
+            "avg_price_gbp": 35.95,
+            "min_price_gbp": 10.56,
+            "max_price_gbp": 57.86
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "History",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "statistiques": {
+            "total_books": 18,
+            "avg_price_gbp": 37.29,
+            "min_price_gbp": 11.45,
+            "max_price_gbp": 59.64
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Food and Drink",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "statistiques": {
+            "total_books": 30,
+            "avg_price_gbp": 31.41,
+            "min_price_gbp": 11.05,
+            "max_price_gbp": 59.92
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Christian Fiction",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "statistiques": {
+            "total_books": 6,
+            "avg_price_gbp": 34.38,
+            "min_price_gbp": 17.97,
+            "max_price_gbp": 49.97
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Business",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "statistiques": {
+            "total_books": 12,
+            "avg_price_gbp": 32.46,
+            "min_price_gbp": 12.61,
+            "max_price_gbp": 51.74
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Biography",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "statistiques": {
+            "total_books": 5,
+            "avg_price_gbp": 33.66,
+            "min_price_gbp": 16.85,
+            "max_price_gbp": 48.19
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Thriller",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "statistiques": {
+            "total_books": 11,
+            "avg_price_gbp": 31.43,
+            "min_price_gbp": 12.84,
+            "max_price_gbp": 59.71
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Contemporary",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "statistiques": {
+            "total_books": 3,
+            "avg_price_gbp": 36.2,
+            "min_price_gbp": 24.04,
+            "max_price_gbp": 52.79
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Spirituality",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "statistiques": {
+            "total_books": 6,
+            "avg_price_gbp": 35.1,
+            "min_price_gbp": 17.66,
+            "max_price_gbp": 55.65
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Academic",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 13.12,
+            "min_price_gbp": 13.12,
+            "max_price_gbp": 13.12
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Self Help",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "statistiques": {
+            "total_books": 5,
+            "avg_price_gbp": 40.62,
+            "min_price_gbp": 12.08,
+            "max_price_gbp": 52.15
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Historical",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "statistiques": {
+            "total_books": 2,
+            "avg_price_gbp": 22.83,
+            "min_price_gbp": 15.79,
+            "max_price_gbp": 29.87
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Christian",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "statistiques": {
+            "total_books": 3,
+            "avg_price_gbp": 42.5,
+            "min_price_gbp": 25.77,
+            "max_price_gbp": 54.0
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Suspense",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 58.33,
+            "min_price_gbp": 58.33,
+            "max_price_gbp": 58.33
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Short Stories",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 35.88,
+            "min_price_gbp": 35.88,
+            "max_price_gbp": 35.88
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Novels",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 54.81,
+            "min_price_gbp": 54.81,
+            "max_price_gbp": 54.81
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Health",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "statistiques": {
+            "total_books": 4,
+            "avg_price_gbp": 51.45,
+            "min_price_gbp": 49.05,
+            "max_price_gbp": 54.07
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Politics",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "statistiques": {
+            "total_books": 3,
+            "avg_price_gbp": 53.61,
+            "min_price_gbp": 51.33,
+            "max_price_gbp": 56.86
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Cultural",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 36.58,
+            "min_price_gbp": 36.58,
+            "max_price_gbp": 36.58
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Erotica",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 19.19,
+            "min_price_gbp": 19.19,
+            "max_price_gbp": 19.19
+        },
+        "sous_categories": []
+    },
+    {
+        "nom_categorie": "Crime",
+        "url_categorie": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "statistiques": {
+            "total_books": 1,
+            "avg_price_gbp": 10.97,
+            "min_price_gbp": 10.97,
+            "max_price_gbp": 10.97
+        },
+        "sous_categories": []
+    }
+]

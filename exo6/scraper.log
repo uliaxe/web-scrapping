@@ -1,0 +1,59 @@
+2025-11-07 00:05:26,698 - INFO - --- Démarrage du Scraper Résilient ---
+2025-11-07 00:05:26,699 - INFO - Aucun fichier de progression (scraper_progress.log) trouvé. Démarrage depuis le début.
+2025-11-07 00:05:26,699 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-1.html
+2025-11-07 00:05:32,403 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-2.html
+2025-11-07 00:05:37,818 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-3.html
+2025-11-07 00:05:43,256 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-4.html
+2025-11-07 00:05:48,659 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-5.html
+2025-11-07 00:05:54,036 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-6.html
+2025-11-07 00:05:59,364 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-7.html
+2025-11-07 00:06:04,814 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-8.html
+2025-11-07 00:06:10,151 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-9.html
+2025-11-07 00:06:15,529 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-10.html
+2025-11-07 00:06:20,948 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-11.html
+2025-11-07 00:06:26,297 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-12.html
+2025-11-07 00:06:31,635 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-13.html
+2025-11-07 00:06:37,178 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-14.html
+2025-11-07 00:06:42,518 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-15.html
+2025-11-07 00:06:47,925 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-16.html
+2025-11-07 00:06:53,306 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-17.html
+2025-11-07 00:06:58,675 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-18.html
+2025-11-07 00:07:04,219 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-19.html
+2025-11-07 00:07:09,575 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-20.html
+2025-11-07 00:07:15,162 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-21.html
+2025-11-07 00:07:20,626 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-22.html
+2025-11-07 00:07:26,353 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-23.html
+2025-11-07 00:07:31,971 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-24.html
+2025-11-07 00:07:37,529 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-25.html
+2025-11-07 00:07:43,462 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-26.html
+2025-11-07 00:07:48,854 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-27.html
+2025-11-07 00:07:54,112 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-28.html
+2025-11-07 00:07:59,331 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-29.html
+2025-11-07 00:08:04,674 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-30.html
+2025-11-07 00:08:10,130 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-31.html
+2025-11-07 00:08:15,521 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-32.html
+2025-11-07 00:08:21,021 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-33.html
+2025-11-07 00:08:26,526 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-34.html
+2025-11-07 00:08:32,006 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-35.html
+2025-11-07 00:08:37,807 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-36.html
+2025-11-07 00:08:43,412 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-37.html
+2025-11-07 00:08:48,719 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-38.html
+2025-11-07 00:08:54,095 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-39.html
+2025-11-07 00:08:59,555 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-40.html
+2025-11-07 00:09:04,959 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-41.html
+2025-11-07 00:09:10,515 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-42.html
+2025-11-07 00:09:15,943 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-43.html
+2025-11-07 00:09:21,261 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-44.html
+2025-11-07 00:09:26,565 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-45.html
+2025-11-07 00:09:31,890 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-46.html
+2025-11-07 00:09:37,240 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-47.html
+2025-11-07 00:09:42,572 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-48.html
+2025-11-07 00:09:47,884 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-49.html
+2025-11-07 00:09:53,268 - INFO - Scraping de la page : https://books.toscrape.com/catalogue/page-50.html
+2025-11-07 00:09:58,199 - INFO - Fin de la pagination atteinte.
+2025-11-07 00:09:58,700 - INFO - --- Session de Scraping Terminée ---
+2025-11-07 00:09:58,700 - INFO - Temps total : 272.00 secondes
+2025-11-07 00:09:58,701 - INFO - Livres scrapés cette session : 1000
+2025-11-07 00:09:58,701 - INFO - Performance : 3.68 livres/seconde
+2025-11-07 00:09:58,701 - INFO - Données sauvegardées dans : books_data_resilient.jsonl
+2025-11-07 00:09:58,701 - INFO - Logs complets dans : scraper.log
